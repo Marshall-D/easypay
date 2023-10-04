@@ -1,0 +1,1 @@
+export { HeroiconsOutlineClipboardDocumentCheck } from "./HeroiconsOutlineClipboardDocumentCheck";

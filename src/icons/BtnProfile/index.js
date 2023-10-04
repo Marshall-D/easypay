@@ -1,0 +1,1 @@
+export { BtnProfile } from "./BtnProfile";
